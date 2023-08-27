@@ -9,7 +9,7 @@ A Reselling app designed using React Native for the users  to buy and sell used 
 
 
 
-## Login/Signup Screen
+### Login/Signup Screen
 
 
 ![WhatsApp Image 2023-08-27 at 7 46 10 PM](https://github.com/hayub2000/Resellit_App/assets/90406573/7141b0ac-8272-4c84-a657-5cfe3ba416f6)
